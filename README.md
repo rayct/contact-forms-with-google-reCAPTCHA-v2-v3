@@ -6,6 +6,8 @@
 
 Heading begin with octothorpes(#). Include a blank line after the heading to separate from following paragraph.
 
+----
+
 Paragraph
 
 ## Heading 2
