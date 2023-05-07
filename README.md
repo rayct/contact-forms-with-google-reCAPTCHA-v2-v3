@@ -10,7 +10,7 @@ Heading begin with octothorpes(#). Include a blank line after the heading to sep
 
 ## Paragraph
 
-Paragrahps are just *consequentive* line but genarally you should make paragraphs one big long line.
+Paragrahps are just *consequentive* lines but genarally you should make paragraphs one big long line.
 
 ## Heading 2
 
