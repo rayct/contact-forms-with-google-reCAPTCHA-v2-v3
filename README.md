@@ -18,6 +18,7 @@ Just use stars.
 * Use **two stars** for bold (strong).
 * Use ***three stars**  bold and italic(strong em).
 
+```
 
 ## Separators
 
