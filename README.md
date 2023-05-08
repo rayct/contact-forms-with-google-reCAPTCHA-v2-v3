@@ -6,26 +6,28 @@
 
 Heading begin with octothorpes(#). Include a blank line after the heading to separate from following paragraph.
 
-----
 
-## Paragraph
+```markdown
+# Heading 1
 
-Paragrahps are just *consequentive* lines but genarally you should make paragraphs one big long line.
+Paragraph
 
 ## Heading 2
 
-```markdown
+```
 
+## Paragraphs
+
+Paragrahps are just *consequentive* lines but genarally you should make paragraphs one big long line.
 ### Formating
 
 Just use stars.
 
 * Use *one star* for italic (em).
 * Use **two stars** for bold (strong).
-* Use ***three stars**  bold and italic(strong em).
+* Use ***three stars**  bold and italic (strong em).
 * This is `monospace` stuff (pre, preformatted, code).
 
-```
 
 ## Separators
 
