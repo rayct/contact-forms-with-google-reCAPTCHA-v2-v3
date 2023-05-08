@@ -23,6 +23,7 @@ Just use stars.
 * Use *one star* for italic (em).
 * Use **two stars** for bold (strong).
 * Use ***three stars**  bold and italic(strong em).
+* This is `monospace` stuff (pre, preformatted, code).
 
 ```
 
